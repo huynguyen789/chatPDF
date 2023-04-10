@@ -1,6 +1,6 @@
 # AI Assistant for PDF Summarization
 
-This is an AI assistant that allows users to search for text in a PDF file and receive a summarized answer to their question. The assistant uses OpenAI's GPT-3.5 and GPT-4 language model to provide a natural language response to the user's query.
+This is an AI assistant that allows users to search for text in a PDF file and receive a summarized answer to their question. The assistant uses OpenAI's GPT-3.5 turbo and GPT-4 language model to provide a natural language response to the user's query.
 
 ## Setup
 1. Clone the repository to your local machine.

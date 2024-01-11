@@ -9,7 +9,7 @@ This is an AI assistant that allows users to search for text in a PDF file and r
 4. Run the script `pdf_summarizer.py` by running `python pdf_summarizer.py`.
 
 ## Usage
-1. Run the `pdf_summarizer.py` script.
+1. Run the `main.py` script.
 2. When prompted, enter the name of the PDF file you want to search.
 3. Enter your search query.
 4. The assistant will provide you with a summarized answer to your query.
